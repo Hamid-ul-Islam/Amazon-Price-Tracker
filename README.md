@@ -16,7 +16,7 @@ Click here [https://hamidthedev.github.io/Amazon-Price-Tracker]
 
 ## Screenshots
 
-![react-update](https://github.com/HamidTheDev/Typing-Master/blob/main/Demo.png)
+![react-update](https://github.com/HamidTheDev/Amazon-Price-Tracker/blob/main/Demo.png)
 
 
 ## Author
